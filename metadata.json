@@ -1,0 +1,6 @@
+{
+  "name": "تبسيط",
+  "description": "منصة تبسيط للذكاء الاصطناعي - Full stack AI platform with chat, saved history, and intelligent assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
